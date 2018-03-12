@@ -1,6 +1,6 @@
 ### URL
 
-https://carlosror.github.io/excel-notebook/
+https://carlosror.github.io/excel_notebook/
 
 ### Description
 
